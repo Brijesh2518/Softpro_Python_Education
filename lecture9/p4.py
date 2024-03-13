@@ -1,0 +1,1 @@
+# WAP in python to find the value of cubic  
