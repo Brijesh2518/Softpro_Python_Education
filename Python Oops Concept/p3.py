@@ -6,7 +6,7 @@ class Employee:
     def display(self):
         print("employee id: ",self.empid)
         print("employee name: ",self.empname)
-        print("employee salary: ",self.empsalary)
+        print("employee empsalary: ",self.empsalary)
 
 e = Employee()
 eid = int(input("Enter the Id: "))
